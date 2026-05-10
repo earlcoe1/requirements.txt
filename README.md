@@ -1,2 +1,2 @@
-# Requirements.txt
-tequirements
+# Lab10
+Lab10_assignment
